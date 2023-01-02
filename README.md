@@ -26,7 +26,7 @@
     
 RandomOverSampler Model randomly selects from the minority class and adds it to the training set until both classifications are equal. The results classified 51,366 records each as High Risk and Low Risk.
 
-!(naive_random_sampling)[https://github.com/miralchangela/Credit_Risk_Analysis/blob/main/resources/images/naive_random_sampling.png]
+![naive_random_sampling](https://github.com/miralchangela/Credit_Risk_Analysis/blob/main/resources/images/naive_random_sampling.png)
 
 - Balanced accuracy score: 65.20%.
 
